@@ -1,0 +1,39 @@
+2025/03/09-18:17:12.655 548 Reusing MANIFEST D:\N\N Whatsapp\LocalAuth\session\Default\IndexedDB\https_web.whatsapp.com_0.indexeddb.leveldb/MANIFEST-000001
+2025/03/09-18:17:12.656 548 Recovering log #198
+2025/03/09-18:17:12.759 548 Reusing old log D:\N\N Whatsapp\LocalAuth\session\Default\IndexedDB\https_web.whatsapp.com_0.indexeddb.leveldb/000198.log 
+2025/03/09-18:17:14.651 5e4 Level-0 table #205: started
+2025/03/09-18:17:14.713 5e4 Level-0 table #205: 745207 bytes OK
+2025/03/09-18:17:14.767 5e4 Delete type=0 #198
+2025/03/09-18:17:14.768 5e4 Manual compaction at level-0 from '\x00A\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00B\x00\x00\x00' @ 0 : 0; will stop at (end)
+2025/03/09-18:17:16.821 2608 Compacting 1@1 + 3@2 files
+2025/03/09-18:17:17.006 2608 Generated table #206@1: 62644 keys, 2226258 bytes
+2025/03/09-18:17:17.178 2608 Generated table #207@1: 40061 keys, 2180905 bytes
+2025/03/09-18:17:17.247 2608 Generated table #208@1: 16772 keys, 325296 bytes
+2025/03/09-18:17:17.247 2608 Compacted 1@1 + 3@2 files => 4732459 bytes
+2025/03/09-18:17:17.268 2608 compacted to: files[ 0 0 3 0 0 0 0 ]
+2025/03/09-18:17:17.268 2608 Delete type=2 #200
+2025/03/09-18:17:17.268 2608 Delete type=2 #201
+2025/03/09-18:17:17.268 2608 Delete type=2 #202
+2025/03/09-18:17:17.268 2608 Delete type=2 #205
+2025/03/09-18:23:19.775 4da4 Level-0 table #210: started
+2025/03/09-18:23:19.836 4da4 Level-0 table #210: 1502014 bytes OK
+2025/03/09-18:23:19.846 4da4 Delete type=0 #204
+2025/03/09-18:23:46.896 4da4 Compacting 1@1 + 3@2 files
+2025/03/09-18:23:47.042 4da4 Generated table #211@1: 64874 keys, 2231075 bytes
+2025/03/09-18:23:47.112 4da4 Generated table #212@1: 29975 keys, 2168356 bytes
+2025/03/09-18:23:47.162 4da4 Generated table #213@1: 31939 keys, 619617 bytes
+2025/03/09-18:23:47.162 4da4 Compacted 1@1 + 3@2 files => 5019048 bytes
+2025/03/09-18:23:47.172 4da4 compacted to: files[ 0 0 3 0 0 0 0 ]
+2025/03/09-18:23:47.172 4da4 Delete type=2 #206
+2025/03/09-18:23:47.172 4da4 Delete type=2 #207
+2025/03/09-18:23:47.172 4da4 Delete type=2 #208
+2025/03/09-18:23:47.172 4da4 Delete type=2 #210
+2025/03/09-18:39:05.521 5e4 Level-0 table #215: started
+2025/03/09-18:39:05.586 5e4 Level-0 table #215: 1490000 bytes OK
+2025/03/09-18:39:05.674 5e4 Delete type=0 #209
+2025/03/09-18:39:56.212 4da4 Compacting 1@1 + 3@2 files
+2025/03/09-18:39:56.346 4da4 Generated table #216@1: 66487 keys, 2233321 bytes
+2025/03/09-18:39:56.439 4da4 Generated table #217@1: 19798 keys, 2155807 bytes
+2025/03/09-18:39:56.501 4da4 Generated table #218@1: 49064 keys, 951812 bytes
+2025/03/09-18:39:56.501 4da4 Compacted 1@1 + 3@2 files => 5340940 bytes
+2025/03/09-18:39:56.512 4da4 compacted to: files[ 0 0 3 0 0 0 0 ]

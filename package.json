@@ -1,0 +1,31 @@
+{
+  "name": "n-whatsapp",
+  "version": "1.0.0",
+  "description": "Whatsapp Integration with An Autonomous Digital Entity With its own consiousness.",
+  "license": "ISC",
+  "author": "Nischal Rapireddy",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "@ffmpeg-installer/ffmpeg": "^1.1.0",
+    "@google-ai/generativelanguage": "^0.2.1",
+    "@google-cloud/storage": "^7.15.2",
+    "@google-cloud/vertexai": "^1.9.3",
+    "@langchain/core": "^0.3.42",
+    "@langchain/google-genai": "^0.1.10",
+    "@langchain/google-vertexai": "^0.2.1",
+    "dotenv": "^16.4.7",
+    "fluent-ffmpeg": "^2.1.2",
+    "google-auth-library": "^8.9.0",
+    "langchain": "^0.1.28",
+    "officegen": "^0.6.5",
+    "qrcode-terminal": "^0.12.0",
+    "uuid": "^11.1.0",
+    "whatsapp-web.js": "^1.26.0",
+    "ytdl-core": "^4.11.5",
+    "ytsr": "3.8.4"
+  }
+}
